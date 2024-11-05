@@ -1,8 +1,19 @@
-# React + Vite
+# Autenticação OAuth
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Nesse projeto foi implementado um exemplo de autenticação básico utilizando OAuth do Google.
 
-Currently, two official plugins are available:
+# Como usar
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+No arquivo **App.jsx**, altere a chave da API para a sua chave.
+
+> Instalação de dependências
+
+```bash
+npm install
+```
+
+> Build do projeto
+
+```bash
+npm run dev
+```
